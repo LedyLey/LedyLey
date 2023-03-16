@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ledy👋🏾, an frontend developer and UI/UX Designer</div>  
+### <div align="center">I'm Ledy👋🏾, a frontend developer and UI/UX Designer</div>  
   
 -  🧩I love solving puzzles  
   
